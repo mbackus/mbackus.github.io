@@ -14,7 +14,7 @@ body {
     background-repeat: no-repeat;
     
 	font-family: Andale Mono, sans-serif;
-	font-size: 12px;
+	font-size: 14px;
 	color: #0c0019;
 
 }
@@ -132,7 +132,7 @@ img.right {
 	padding: 10px 0 0 10px;
 	text-transform: uppercase;
 	font-family: Andale Mono, sans-serif;
-	font-size: 10px;
+	font-size: 14px;
 		color: #A0A0A5;
 	/*	color: #f5f5f5;*/ /*white smoke*/
 }
